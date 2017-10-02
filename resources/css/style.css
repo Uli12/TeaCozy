@@ -59,6 +59,10 @@ header nav {
 
 .hero-text {
   background-color: black;
+}
+
+.hero-text h2,
+.hero-text h4 {
   margin-top: 10px;
   margin-bottom: 5px;
 }
