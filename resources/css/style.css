@@ -23,6 +23,7 @@ header {
   width: 100%;
   border-bottom: 1px solid seashell;
   background-color: black;
+  z-index: 5;
 }
 
 header nav {
@@ -51,4 +52,6 @@ header nav {
   position: relative;
   justify-content: center;
   background-color: black;
+  width: 100%;
+  top: 96px;
 }
