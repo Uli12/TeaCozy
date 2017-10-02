@@ -9,3 +9,16 @@ html {
   opacity: 0.9;
   text-align: center;
 }
+
+header {
+  display: flex;
+  position: fixed;
+  justify-content: space-between;
+  height: 69px;
+  width: 100%;
+  border-bottom: 1px solid seashell;
+}
+
+.logo {
+  height: 50px;
+}
