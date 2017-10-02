@@ -61,8 +61,33 @@ header nav {
   background-color: black;
 }
 
-.hero-text h2,
-.hero-text h4 {
+h2,
+h4 {
   margin-top: 10px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
+}
+/*main content featured teas*/
+.main {
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+}
+
+.tea-heading {
+  display: flex;
+  flex-direction: column;
+}
+
+.tea {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.image img {
+  height: 200px;
+  width: 300px;
+  padding-bottom: 10px;
 }
