@@ -52,10 +52,13 @@ header nav {
   position: relative;
   justify-content: center;
   width: 100%;
-  top: 76px;
+  top: 72px;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .hero-text {
   background-color: black;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
