@@ -106,3 +106,24 @@ h4 {
   padding-top: 20px;
   padding-bottom: 10px;
 }
+/*locations*/
+
+.locations {
+  background-image: url("../images/locations.jpg");
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  margin-top: 30px;
+}
+
+.maine {
+  
+
+}
+
+.portland {
+  width: 300px;
+  padding: 15px 20px;
+  opacity: 1;
+  text-align: center;
+}
