@@ -76,6 +76,8 @@ h2,
 h4 {
   margin-top: 10px;
   margin-bottom: 10px;
+  text-decoration: none;
+	border: 0 none;
 }
 /*main content featured teas*/
 .main {
@@ -102,5 +104,11 @@ h4 {
 .image img {
   height: 200px;
   width: 300px;
+  padding-top: 20px;
   padding-bottom: 10px;
+}
+
+.image div {
+  text-decoration: none;
+	border: 0 none;
 }
