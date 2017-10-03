@@ -117,8 +117,8 @@ h4 {
 }
 
 .maine {
-  
-
+  display: flex;
+  flex-direction: row;
 }
 
 .portland {
