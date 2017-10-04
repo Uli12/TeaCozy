@@ -110,7 +110,7 @@ h4 {
 
 .locations {
   background-image: url("../images/locations.jpg");
-  background-size: 500px;
+  background-size: 1100px 720px;
   display: flex;
   flex-direction: column;
   height: 500px;
