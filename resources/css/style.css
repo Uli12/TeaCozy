@@ -110,10 +110,12 @@ h4 {
 
 .locations {
   background-image: url("../images/locations.jpg");
+  background-size: contain;
   display: flex;
   flex-direction: column;
   height: 500px;
   margin-top: 30px;
+  justify-content: center;
 }
 
 .maine {
