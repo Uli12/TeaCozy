@@ -144,7 +144,7 @@ footer {
   flex-direction: column;
 }
 
-.copyright {
+footer h5 {
   text-align: left;
   margin-left: 20px;
 }
