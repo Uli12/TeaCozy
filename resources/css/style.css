@@ -62,7 +62,7 @@ a {
   position: relative;
   justify-content: center;
   width: 100%;
-  top: 72px;
+  top: 70px;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -94,7 +94,7 @@ h4 {
 .tea {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
