@@ -18,7 +18,7 @@ header {
   position: fixed;
   justify-content: space-between;
   height: 69px;
-  width: 155%;
+  width: 100%;
   border-bottom: 1px solid seashell;
   background-color: black;
   z-index: 5;
@@ -29,6 +29,7 @@ header nav {
   align-items: center;
   justify-content: center;
   text-decoration: underline;
+  margin-right: 10px;
 }
 
 a {
